@@ -1,0 +1,11 @@
+.cols {
+  height: 4rem;
+  width: 4rem;
+}
+div.cols:hover {
+  background-color: white;
+}
+
+.grid-container {
+  max-width: 960px;
+}
